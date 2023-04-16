@@ -1,6 +1,6 @@
 import java.util.List;
 
-import static org.junit.Assert.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 // Proszę nie modyfikować tego pliku!
 public class Checker implements IChecker {
